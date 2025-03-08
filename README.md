@@ -32,15 +32,22 @@ Chatbot processes input using NLP techniques.
 System suggests books based on similarity and ranking.
 
 ## 📌 Example Interaction:
-👤 User: "Recommend me a sci-fi novel like Dune." 🤖 Chatbot: "You might love Foundation by Isaac Asimov or Neuromancer by William Gibson!"
+👤 User: " I WANT TO STUDY SOME ADVENTURE BOOKS" 🤖 Chatbot: " mutual funds might be better unless you are wealthy.
+Here are some book recommendations:
+- I Want More! by Robert Jeffress
+- I'm the One That I Want by Margaret Cho
+- If You Want Me by Kayla Perrin
+- I'm the One That I Want by MARGARET CHO
+- I want it now by Kingsley Amis "
 
 ## 📌 How to Run the Project
 
 Clone the repository:
-git clone : https://github.com/ashokkumarboya93/FUTURE_ML_03.git cd FUTURE_ML_03
+git clone : https://github.com/balu105/FUTURE_ML_03/
 
 Install dependencies:
-
+pip install chatterbot
+pip install chatterbot_corpus
 pip install -r requirements.txt
 
 Run the chatbot:
